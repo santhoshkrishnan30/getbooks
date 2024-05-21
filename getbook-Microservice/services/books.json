@@ -1,0 +1,14 @@
+{
+  "books": [
+    {"title": "Book 1", "author": "Author 1", "genre": "Fiction", "price": 20.99},
+    {"title": "Book 2", "author": "Author 2", "genre": "Non-fiction", "price": 15.99},
+    {"title": "Book 3", "author": "Author 3", "genre": "Thriller", "price": 25.99},
+    {"title": "Book 4", "author": "Author 4", "genre": "Sci-fi", "price": 18.99},
+    {"title": "Book 5", "author": "Author 5", "genre": "Mystery", "price": 22.99},
+    {"title": "Book 6", "author": "Author 6", "genre": "Romance", "price": 17.99},
+    {"title": "Book 7", "author": "Author 7", "genre": "Historical Fiction", "price": 21.99},
+    {"title": "Book 8", "author": "Author 8", "genre": "Biography", "price": 19.99},
+    {"title": "Book 9", "author": "Author 9", "genre": "Fantasy", "price": 23.99},
+    {"title": "Book 10", "author": "Author 10", "genre": "Self-help", "price": 16.99}
+  ]
+}
